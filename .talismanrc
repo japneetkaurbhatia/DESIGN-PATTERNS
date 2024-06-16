@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: 02-SOLID/SOLID/DIP.java
+  checksum: fdd22f4e71f7b20e732f779cc5ed12bdb1b214deceb51d8e1c028c8b7fe361c7
+version: ""
