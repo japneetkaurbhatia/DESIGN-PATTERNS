@@ -1,1 +1,0 @@
-design patterns are common architectural approaches that have been observed in software
